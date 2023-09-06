@@ -1,6 +1,6 @@
 
 # Hi, 👋
-I'm **[VijayaLakshmi Y](https://www.linkedin.com/in/iamvijaya/)** ;  You can call me 'Vijaya'
+I'm **[VijayaLakshmi Y](https://www.linkedin.com/in/vijayalakshmiyvl/)** ;  You can call me 'Vijaya'
 
 I've completed my graduation in BSc computers.
 Later I chose a different path and completed my MBA in Finance..
@@ -125,7 +125,7 @@ Strength: Quick Learner, Good Listener
 
 <p align="left">
 
-<a href="https://linkedin.com/in/iamvijaya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-VijayaLakshmi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/vijaya99yvl"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-Vijaya-blue?style=flat-square&logo=twitter"></a>
+<a href="https://linkedin.com/in/vijayalakshmiyvl"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-VijayaLakshmi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/vijayalakshmiyv"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-Vijaya-blue?style=flat-square&logo=twitter"></a>
 
 
