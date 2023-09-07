@@ -89,7 +89,12 @@ Strength: Quick Learner, Good Listener
 <img src=https://img.shields.io/badge/Linkedin-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a
 
-
+div align="center">
+## 👁️ Profile Views📅
+[![Profile Views](https://komarev.com/ghpvc/?username=vijayalakshmiyvl&color=blue)](https://github.com/vijayalakshmiyvl)
+[![GitHub stars](https://img.shields.io/github/stars/iamrajaram1/vijayalakshmiyvl?style=social)](https://github.com/vijayalakshmiyvl/vijayalakshmiyvl)
+[![GitHub last commit](https://img.shields.io/github/last-commit/vijayalakshmiyvl/vijayalakshmiyvl)](https://github.com/vijayalakshmiyvl/vijayalakshmiyvl/commits/master)
+</div>
 
 
 
