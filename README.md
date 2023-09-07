@@ -99,6 +99,45 @@ div align="center">
 
 
 
+### 💻 Tech Stack: Expertise 🛠️
+Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tools I'm proficient with:
+## Cloud-Native Skills
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Helm](https://img.shields.io/badge/Helm-%23000000.svg?logo=Helm&logoColor=white)](https://helm.sh/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=Prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=Grafana&logoColor=white)](https://grafana.com/)
+[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/lambda/)
+[![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/api-gateway/)
+[![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/elasticbeanstalk/)
+[![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/eks/)
+[![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/codepipeline/)
+[![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/cloudformation/)
+[![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/cloudwatch/)
+[![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/fargate/)
+[![AWS KMS](https://img.shields.io/badge/AWS%20KMS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/kms/)
+[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/ec2/)
+[![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/iam/)
+[![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/vpc/)
+
+
+
+
+## DevOps Tools
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.org/)
+[![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=Apache-Maven&logoColor=white)](https://maven.apache.org/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=Jenkins&logoColor=white)](https://jenkins.io/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=Terraform&logoColor=white)](https://www.terraform.io/)
+
+## Cloud Technologies
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/)
+
+## Operating System
+
+
 --- 
 # :tv: Cloudnloud YouTube - Latest Videos
   
