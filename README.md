@@ -127,7 +127,6 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 
 ## DevOps Tools
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white)](https://github.com/)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=Apache-Maven&logoColor=white)](https://maven.apache.org/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=Jenkins&logoColor=white)](https://jenkins.io/)
 [![SonarQube](https://img.shields.io/badge/SonarQube-%23D24939.svg?logo=SonarQube&logoColor=white)](https://https://www.sonarsource.com/products/sonarqube/)
