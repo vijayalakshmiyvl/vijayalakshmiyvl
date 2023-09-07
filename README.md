@@ -107,7 +107,11 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 [![Helm](https://img.shields.io/badge/Helm-%23000000.svg?logo=Helm&logoColor=white)](https://helm.sh/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=Prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=Grafana&logoColor=white)](https://grafana.com/)
+[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/ec2/)
+[![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/iam/)
+[![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/vpc/)
 [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/lambda/)
+[![AWS KMS](https://img.shields.io/badge/AWS%20KMS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/kms/)
 [![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/api-gateway/)
 [![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/elasticbeanstalk/)
 [![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/eks/)
@@ -115,10 +119,8 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 [![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/cloudformation/)
 [![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/cloudwatch/)
 [![AWS Fargate](https://img.shields.io/badge/AWS%20Fargate-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/fargate/)
-[![AWS KMS](https://img.shields.io/badge/AWS%20KMS-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/kms/)
-[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/ec2/)
-[![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/iam/)
-[![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23FF9900.svg?logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/vpc/)
+
+
 
 
 
