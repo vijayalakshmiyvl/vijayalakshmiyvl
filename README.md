@@ -130,6 +130,7 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=Apache-Maven&logoColor=white)](https://maven.apache.org/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=Jenkins&logoColor=white)](https://jenkins.io/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-%23D24939.svg?logo=SonarQube&logoColor=white)](https://https://www.sonarsource.com/products/sonarqube/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=Terraform&logoColor=white)](https://www.terraform.io/)
