@@ -78,6 +78,21 @@ Strength: Quick Learner, Good Listener
 - [𝗖𝗡𝗖𝗙 𝗛𝘆𝗱𝗲𝗿𝗮𝗯𝗮𝗱 𝗺𝗲𝗲𝘁𝘂𝗽](https://www.linkedin.com/posts/iamvijaya_cncf-hyderabad-meetup-activity-7098724208087638016-YtFc?)  - 𝗠𝗲𝗲𝘁𝘂𝗽 𝗽𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝘁𝗶𝗼𝗻
 
 - [𝗗𝗗𝗼𝗦 𝗔𝘁𝘁𝗮𝗰𝗸𝘀?](https://www.linkedin.com/posts/iamvijaya_ddos-prevent-devops-activity-7101211366224510976-EPl6?)  - 𝗥𝗲𝗰𝗮𝗽 𝟮𝟵
+
+- [𝗗𝗔𝗫](https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap30-dax-devops-activity-7106530958350184448-uURY?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟬
+
+- [𝗖𝗵𝗲𝗻𝗻𝗮𝗶 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗔𝗜 𝗺𝗲𝗲𝘁𝘂𝗽](https://www.linkedin.com/posts/vijayalakshmiyvl_aws-cloudnloud-ai-activity-7109085132405280769-2ed8?) - 𝗠𝗲𝗲𝘁𝘂𝗽 𝗽𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝘁𝗶𝗼𝗻
+
+- [𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴](https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap31-microservicesmonitoring-activity-7109918552433819648-ng0M?)  - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟭
+
+- [𝗗𝘆𝗻𝗮𝘁𝗿𝗮𝗰𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄](https://www.linkedin.com/posts/vijayalakshmiyvl_udemy-course-completion-certificate-activity-7110848459108216832-AZTX?)   - 𝗨𝗱𝗲𝗺𝘆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+
+
+
+
+
+
+
 ## Connect with me  
 <a href="https://github.com/vijayalakshmiy-YVL" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
