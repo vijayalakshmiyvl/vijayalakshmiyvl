@@ -50,7 +50,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap16-awslambda-cloudnloud-activity-7044524295649165313-GetV?) - 𝗥𝗲𝗰𝗮𝗽-𝟭𝟲
 
-- [𝗔𝗽𝗮𝗰𝗵𝗲-𝗧𝗼𝗺𝗰𝗮𝘁](https://www.linkedin.com/posts/iamvijaya_apache-tomcat-activity-7045324309988315136-Mi6b?utm_source=share&utm_medium=member_desktop) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟳
+- [𝗔𝗽𝗮𝗰𝗵𝗲-𝗧𝗼𝗺𝗰𝗮𝘁](https://www.linkedin.com/posts/iamvijaya_apache-tomcat-activity-7045324309988315136-Mi6b?) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟳
 
 - [𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺-𝗺𝗲𝗱𝗶𝘂𝗺6](https://www.linkedin.com/posts/iamvijaya_authentication-and-configuration-activity-7048243745774833664-cBNS?)- 𝗥𝗲𝗰𝗮𝗽 𝟭𝟴
 
