@@ -37,8 +37,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐊𝐒?](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap10-cloudnloud-amazonwebservices-activity-7031635418685087744-Ijpq?) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟬
 
-- [𝗘𝗞𝗦, 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴,𝗱𝗲𝗽𝗹𝗼𝘆 𝗮𝗽𝗽 𝗶𝗻 𝗘𝗞𝗦-𝗺𝗲𝗱𝗶𝘂𝗺3 ](https://www.linkedin.com/posts/iamvijaya_what-is-eks-how-to-provisionand-run-application-activity-
-  7032001648533151744-H3FO?)  - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟭
+- [𝗘𝗞𝗦, 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴,𝗱𝗲𝗽𝗹𝗼𝘆 𝗮𝗽𝗽 𝗶𝗻 𝗘𝗞𝗦-𝗺𝗲𝗱𝗶𝘂𝗺3 ](https://www.linkedin.com/posts/iamvijaya_what-is-eks-how-to-provisionand-run-application-activity)  - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟭
 
 - [𝗔𝗺𝗮𝘇𝗼𝗻 𝗖𝗼𝗻𝗻𝗲𝗰𝘁](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap12-awsconnect-cloudnloud-activity-7035063481510883328-eYFK?) - 𝗥𝗲𝗰𝗮𝗽𝟭𝟮
 
