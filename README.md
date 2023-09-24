@@ -106,7 +106,7 @@ Strength: Quick Learner, Good Listener
 div align="center">
 ## 👁️ Profile Views📅
 [![Profile Views](https://komarev.com/ghpvc/?username=vijayalakshmiyvl&color=blue)](https://github.com/vijayalakshmiyvl)
-[![GitHub stars](https://img.shields.io/github/stars/vijayalakshmiyvl/vijayalakshmiyvl?style=social)](https://github.com/vijayalakshmiyvl/vijayalakshmiyvl)
+[![GitHub stars](https://img.shields.io/github/stars/vijayalakshmiyvl?style=social)](https://github.com/vijayalakshmiyvl/vijayalakshmiyvl)
 [![GitHub last commit](https://img.shields.io/github/last-commit/vijayalakshmiyvl/vijayalakshmiyvl)](https://github.com/vijayalakshmiyvl/vijayalakshmiyvl/commits/master)
 </div>
 
