@@ -86,6 +86,8 @@ Strength: Quick Learner, Good Listener
 
 - [𝗗𝘆𝗻𝗮𝘁𝗿𝗮𝗰𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄](https://www.linkedin.com/posts/vijayalakshmiyvl_udemy-course-completion-certificate-activity-7110848459108216832-AZTX?)   - 𝗨𝗱𝗲𝗺𝘆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 
+- [𝗜𝗣𝗩𝟰 𝗮𝗱𝗱𝗿𝗲𝘀𝘀𝗲𝘀 𝗮𝗿𝗲 𝗰𝗵𝗮𝗿𝗴𝗲𝗮𝗯𝗹𝗲](https://www.linkedin.com/posts/vijayalakshmiyvl_ipv4address-cloudnloud-networkcontentdelivery-activity-7121677025316143104-K5uO?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟮
+
 
 
 
