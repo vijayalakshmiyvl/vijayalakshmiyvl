@@ -84,13 +84,13 @@ Strength: Quick Learner, Good Listener
 
 - [𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴](https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap31-microservicesmonitoring-activity-7109918552433819648-ng0M?)  - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟭
 
-- [𝗗𝘆𝗻𝗮𝘁𝗿𝗮𝗰𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄](https://www.linkedin.com/posts/vijayalakshmiyvl_udemy-course-completion-certificate-activity-7110848459108216832-AZTX?)   - 𝗨𝗱𝗲𝗺𝘆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+- [𝗗𝘆𝗻𝗮𝘁𝗿𝗮𝗰𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄](https://www.linkedin.com/posts/vijayalakshmiyvl_udemy-course-completion-certificate-activity-7110848459108216832-AZTX?)   - 𝗨𝗱𝗲𝗺𝘆 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟮
 
--  [𝗗𝗶𝗱 𝘆𝗼𝘂 𝗵𝗲𝗮𝗿𝗱 𝘁𝗵𝗲 𝗻𝗲𝘄𝘀? 𝗜𝗣𝗩𝟰 𝗮𝗱𝗱𝗿𝗲𝘀𝘀𝗲𝘀 𝗮𝗿𝗲 𝗰𝗵𝗮𝗿𝗴𝗲𝗮𝗯𝗹𝗲.] (https://www.linkedin.com/posts/vijayalakshmiyvl_ipv4address-cloudnloud-networkcontentdelivery-activity-7121677025316143104-K5uO?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟯
+-  [𝗗𝗶𝗱 𝘆𝗼𝘂 𝗵𝗲𝗮𝗿𝗱 𝘁𝗵𝗲 𝗻𝗲𝘄𝘀? 𝗜𝗣𝗩𝟰 𝗮𝗱𝗱𝗿𝗲𝘀𝘀𝗲𝘀 𝗮𝗿𝗲 𝗰𝗵𝗮𝗿𝗴𝗲𝗮𝗯𝗹𝗲.](https://www.linkedin.com/posts/vijayalakshmiyvl_ipv4address-cloudnloud-networkcontentdelivery-activity-7121677025316143104-K5uO?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟯
 
-- [𝗜𝗣𝗩𝟰 𝘃𝘀 𝗜𝗣𝗩𝟲] (https://www.linkedin.com/posts/vijayalakshmiyvl_vijayalakshmiyvl-cloudnloud-awsdevopsrecap34-activity-7123003149006622720--p4L?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟰
+- [𝗜𝗣𝗩𝟰 𝘃𝘀 𝗜𝗣𝗩𝟲](https://www.linkedin.com/posts/vijayalakshmiyvl_vijayalakshmiyvl-cloudnloud-awsdevopsrecap34-activity-7123003149006622720--p4L?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟰
 
-- [𝗔𝗪𝗦 𝗖𝗼𝗺𝗽𝘂𝘁𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗿] (https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap35-vijayalakshmiyvl-cloudnloud-activity-7124304476286423040-yRF7?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟱
+- [𝗔𝗪𝗦 𝗖𝗼𝗺𝗽𝘂𝘁𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗿](https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap35-vijayalakshmiyvl-cloudnloud-activity-7124304476286423040-yRF7?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟱
 
 
 
