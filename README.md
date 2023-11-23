@@ -92,7 +92,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝗔𝗪𝗦 𝗖𝗼𝗺𝗽𝘂𝘁𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗿](https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap35-vijayalakshmiyvl-cloudnloud-activity-7124304476286423040-yRF7?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟱
 
-- [𝗠𝗶𝗰𝗿𝗼𝗞𝟴𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_build-your-kubernetes-playground-on-aws-activity-7132377143568695296-Gp04?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟲
+- [𝗠𝗶𝗰𝗿𝗼𝗞𝟴𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_build-your-kubernetes-playground-on-aws-activity-7132377143568695296-Gp04?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟲 𝗠𝗲𝗱𝗶𝘂𝗺𝗯𝗹𝗼𝗴𝟭𝟭
 
 
 
