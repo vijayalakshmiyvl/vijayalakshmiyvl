@@ -31,13 +31,13 @@ Strength: Quick Learner, Good Listener
 
 - [𝗠𝗼𝘃𝗲 𝗘𝗰𝟮 𝗜𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝗙𝗿𝗼𝗺 𝗢𝗻𝗲  𝗥𝗲𝗴𝗶𝗼𝗻 𝗧𝗼 𝗔𝗻𝗼𝘁𝗵𝗲𝗿 𝗥𝗲𝗴𝗶𝗼𝗻-𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝘃𝗶𝗱𝗲𝗼](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap7-move-activity-7025493635915792384-pEfp?)  - 𝗥𝗲𝗰𝗮𝗽 𝟳
 
-- [𝗛𝗼𝘄 𝗧𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗩𝗣𝗖? 𝗛𝗼𝘄 𝗜𝗚𝗪 𝗮𝗻𝗱 𝗡𝗔𝗧 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝘄𝗼𝗿𝗸𝘀?-𝗺𝗲𝗱𝗶𝘂𝗺1](https://www.linkedin.com/posts/iamvijaya_how-to-create-vpc-how-igw-and-nat-works-activity-7028339014428495872-diUB?)  - 𝗥𝗲𝗰𝗮𝗽 𝟴
+- [𝗛𝗼𝘄 𝗧𝗼 𝗖𝗿𝗲𝗮𝘁𝗲 𝗩𝗣𝗖? 𝗛𝗼𝘄 𝗜𝗚𝗪 𝗮𝗻𝗱 𝗡𝗔𝗧 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝘄𝗼𝗿𝗸𝘀?](https://www.linkedin.com/posts/iamvijaya_how-to-create-vpc-how-igw-and-nat-works-activity-7028339014428495872-diUB?)  - 𝗥𝗲𝗰𝗮𝗽 𝟴 -𝗺𝗲𝗱𝗶𝘂𝗺1
 
-- [𝗛𝗼𝘄 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 ?- 𝗙𝗼𝗿 𝗯𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀-𝗺𝗲𝗱𝗶𝘂𝗺2](https://www.linkedin.com/posts/iamvijaya_how-to-create-ec2-instance-using-terraform-activity-7030442626982047744-SW0P?)  - 𝗥𝗲𝗰𝗮𝗽 𝟵
+- [𝗛𝗼𝘄 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 ?- 𝗙𝗼𝗿 𝗯𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀](https://www.linkedin.com/posts/iamvijaya_how-to-create-ec2-instance-using-terraform-activity-7030442626982047744-SW0P?)  - 𝗥𝗲𝗰𝗮𝗽 𝟵 𝗠𝗲𝗱𝗶𝘂𝗺_2
 
 - [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐊𝐒?](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap10-cloudnloud-amazonwebservices-activity-7031635418685087744-Ijpq?) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟬
 
-- [𝗘𝗞𝗦, 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴,𝗱𝗲𝗽𝗹𝗼𝘆 𝗮𝗽𝗽 𝗶𝗻 𝗘𝗞𝗦-𝗺𝗲𝗱𝗶𝘂𝗺3 ](https://www.linkedin.com/posts/iamvijaya_what-is-eks-how-to-provisionand-run-application-activity)  - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟭
+- [𝗘𝗞𝗦, 𝗽𝗿𝗼𝘃𝗶𝘀𝗶𝗼𝗻𝗶𝗻𝗴,𝗱𝗲𝗽𝗹𝗼𝘆 𝗮𝗽𝗽 𝗶𝗻 𝗘𝗞𝗦 ](https://www.linkedin.com/posts/iamvijaya_what-is-eks-how-to-provisionand-run-application-activity)  - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟭 -𝗺𝗲𝗱𝗶𝘂𝗺3
 
 - [𝗔𝗺𝗮𝘇𝗼𝗻 𝗖𝗼𝗻𝗻𝗲𝗰𝘁](https://www.linkedin.com/posts/iamvijaya_awsservicesrecap12-awsconnect-cloudnloud-activity-7035063481510883328-eYFK?) - 𝗥𝗲𝗰𝗮𝗽𝟭𝟮
 
@@ -45,24 +45,24 @@ Strength: Quick Learner, Good Listener
 
 - [𝗛𝗮𝗽𝗽𝘆 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗪𝗼𝗺𝗲𝗻'𝘀 𝗗𝗮𝘆!](https://www.linkedin.com/posts/iamvijaya_%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7039281546922512384-pmlU?)  - 𝗥𝗲𝗰𝗮𝗽-𝟭𝟰
 
-- [𝗥𝗮𝗻𝗱𝗼𝗺 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝗶𝗻 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺-𝗺𝗲𝗱𝗶𝘂𝗺5](https://www.linkedin.com/posts/iamvijaya_random-provider-in-terraform-activity-7040922344499924992-5UI7?) - 𝗥𝗲𝗰𝗮𝗽-𝟭𝟱
+- [𝗥𝗮𝗻𝗱𝗼𝗺 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿 𝗶𝗻 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺](https://www.linkedin.com/posts/iamvijaya_random-provider-in-terraform-activity-7040922344499924992-5UI7?) - 𝗥𝗲𝗰𝗮𝗽-𝟭𝟱 -𝗺𝗲𝗱𝗶𝘂𝗺5
 
 - [𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap16-awslambda-cloudnloud-activity-7044524295649165313-GetV?) - 𝗥𝗲𝗰𝗮𝗽-𝟭𝟲
 
 - [𝗔𝗽𝗮𝗰𝗵𝗲-𝗧𝗼𝗺𝗰𝗮𝘁](https://www.linkedin.com/posts/iamvijaya_apache-tomcat-activity-7045324309988315136-Mi6b?) - 𝗥𝗲𝗰𝗮𝗽 𝟭𝟳
 
-- [𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺-𝗺𝗲𝗱𝗶𝘂𝗺6](https://www.linkedin.com/posts/iamvijaya_authentication-and-configuration-activity-7048243745774833664-cBNS?)- 𝗥𝗲𝗰𝗮𝗽 𝟭𝟴
+- [𝗮𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗰𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺](https://www.linkedin.com/posts/iamvijaya_authentication-and-configuration-activity-7048243745774833664-cBNS?)- 𝗥𝗲𝗰𝗮𝗽 𝟭𝟴 -𝗺𝗲𝗱𝗶𝘂𝗺6
 
 - [𝗖𝗵𝗮𝘁𝗚𝗣𝗧 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap19-chatgpt-aws-activity-7050714486906753024-Yqmu?)- 𝗥𝗲𝗰𝗮𝗽-𝟭𝟵
 
-- [𝗠𝗶𝗴𝗿𝗮𝘁𝗲 𝗟𝗼𝗰𝗮𝗹 𝗦𝘁𝗮𝘁𝗲𝗳𝗶𝗹𝗲 𝘁𝗼 𝗥𝗲𝗺𝗼𝘁𝗲-𝗺𝗲𝗱𝗶𝘂𝗺7](https://www.linkedin.com/posts/iamvijaya_migrate-local-state-file-to-remote-activity-7053321127690964992--20H?)-
-  𝗥𝗲𝗰𝗮𝗽-𝟮𝟬
+- [𝗠𝗶𝗴𝗿𝗮𝘁𝗲 𝗟𝗼𝗰𝗮𝗹 𝗦𝘁𝗮𝘁𝗲𝗳𝗶𝗹𝗲 𝘁𝗼 𝗥𝗲𝗺𝗼𝘁𝗲](https://www.linkedin.com/posts/iamvijaya_migrate-local-state-file-to-remote-activity-7053321127690964992--20H?)-
+  𝗥𝗲𝗰𝗮𝗽-𝟮𝟬 -𝗺𝗲𝗱𝗶𝘂𝗺7
 
 - [𝗣𝗹𝘂𝗿𝗮𝘀𝗶𝗴𝗵𝘁 𝘄𝗲𝗯𝗶𝗻𝗮𝗿 𝟱 𝗣𝗶𝗹𝗹𝗮𝗿𝘀 𝗼𝗳 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆](https://www.linkedin.com/posts/iamvijaya_awsdevopsrecap21-plurasight-cloudsecurity-activity-7057339857353785344-aRWY?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟭
 
-- [𝗖𝗿𝗲𝗮𝘁𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗨𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺-𝗺𝗲𝗱𝗶𝘂𝗺8](https://www.linkedin.com/posts/iamvijaya_medium-activity-7063460437417230336-cRQM?)-𝗥𝗲𝗰𝗮𝗽-𝟮𝟮
+- [𝗖𝗿𝗲𝗮𝘁𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗨𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺](https://www.linkedin.com/posts/iamvijaya_medium-activity-7063460437417230336-cRQM?)-𝗥𝗲𝗰𝗮𝗽-𝟮𝟮 -𝗺𝗲𝗱𝗶𝘂𝗺8
 
-- [𝗛𝗼𝘄 𝗧𝗼 𝗥𝗲𝘀𝗲𝘁 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱-𝗺𝗲𝗱𝗶𝘂𝗺9](https://www.linkedin.com/posts/iamvijaya_how-to-reset-jenkins-admin-password-activity-7065181964038799360-ZPmv?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟯
+- [𝗛𝗼𝘄 𝗧𝗼 𝗥𝗲𝘀𝗲𝘁 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱](https://www.linkedin.com/posts/iamvijaya_how-to-reset-jenkins-admin-password-activity-7065181964038799360-ZPmv?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟯 -𝗺𝗲𝗱𝗶𝘂𝗺9
 
 - [𝗛𝗼𝘄 𝗣𝗼𝗱𝘀 𝗔𝗿𝗲 𝗔𝘀𝘀𝗶𝗴𝗻𝗲𝗱 𝗧𝗼 𝗦𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗡𝗼𝗱𝗲?](https://www.linkedin.com/posts/iamvijaya_assigning-pods-to-nodes-activity-7070434147567079424-MmY0?)- 𝗥𝗲𝗰𝗮𝗽-𝟮𝟰
 
@@ -92,13 +92,13 @@ Strength: Quick Learner, Good Listener
 
 - [𝗔𝗪𝗦 𝗖𝗼𝗺𝗽𝘂𝘁𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗿](https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap35-vijayalakshmiyvl-cloudnloud-activity-7124304476286423040-yRF7?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟱
 
-- [𝗠𝗶𝗰𝗿𝗼𝗞𝟴𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_build-your-kubernetes-playground-on-aws-activity-7132377143568695296-Gp04?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟲 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴𝟭𝟭
+- [𝗠𝗶𝗰𝗿𝗼𝗞𝟴𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_build-your-kubernetes-playground-on-aws-activity-7132377143568695296-Gp04?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟲 𝗠𝗲𝗱𝗶𝘂𝗺_𝟭𝟭
 
-- [𝗛𝗲𝗹𝗺 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻](https://www.linkedin.com/posts/vijayalakshmiyvl_deploy-your-first-helm-chart-in-kubernetes-activity-7134186138365300736-n0ZY?)- 𝗥𝗲𝗰𝗮𝗽 𝟯𝟳 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴𝟭𝟮
+- [𝗛𝗲𝗹𝗺 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻](https://www.linkedin.com/posts/vijayalakshmiyvl_deploy-your-first-helm-chart-in-kubernetes-activity-7134186138365300736-n0ZY?)- 𝗥𝗲𝗰𝗮𝗽 𝟯𝟳 𝗠𝗲𝗱𝗶𝘂𝗺_𝟭𝟮
 
-- [𝗛𝗲𝗹𝗺 𝗖𝗹𝗶](https://www.linkedin.com/posts/vijayalakshmiyvl_helm-basic-commands-activity-7136927383135129600-ZfoA?)- 𝗥𝗲𝗰𝗮𝗽 𝟯𝟴 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴13
+- [𝗛𝗲𝗹𝗺 𝗖𝗹𝗶](https://www.linkedin.com/posts/vijayalakshmiyvl_helm-basic-commands-activity-7136927383135129600-ZfoA?)- 𝗥𝗲𝗰𝗮𝗽 𝟯𝟴 𝗠𝗲𝗱𝗶𝘂𝗺_13
 
-- [𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗳𝗶𝗿𝘀𝘁 𝗖𝘂𝘀𝘁𝗼𝗺 𝗛𝗲𝗹𝗺 𝗖𝗵𝗮𝗿𝘁 𝗶𝗻 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_deploy-your-first-custom-helm-chart-in-kubernetes-activity-7139514959599714304-dgf5?) - 𝗥𝗲𝗰𝗮𝗽 𝟯𝟵 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴 14
+- [𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗳𝗶𝗿𝘀𝘁 𝗖𝘂𝘀𝘁𝗼𝗺 𝗛𝗲𝗹𝗺 𝗖𝗵𝗮𝗿𝘁 𝗶𝗻 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_deploy-your-first-custom-helm-chart-in-kubernetes-activity-7139514959599714304-dgf5?) - 𝗥𝗲𝗰𝗮𝗽 𝟯𝟵 𝗠𝗲𝗱𝗶𝘂𝗺_14
 
 
 
