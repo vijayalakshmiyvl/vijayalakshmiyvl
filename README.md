@@ -92,9 +92,13 @@ Strength: Quick Learner, Good Listener
 
 - [𝗔𝗪𝗦 𝗖𝗼𝗺𝗽𝘂𝘁𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗿](https://www.linkedin.com/posts/vijayalakshmiyvl_awsdevopsrecap35-vijayalakshmiyvl-cloudnloud-activity-7124304476286423040-yRF7?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟱
 
-- [𝗠𝗶𝗰𝗿𝗼𝗞𝟴𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_build-your-kubernetes-playground-on-aws-activity-7132377143568695296-Gp04?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟲 𝗠𝗲𝗱𝗶𝘂𝗺𝗯𝗹𝗼𝗴𝟭𝟭
+- [𝗠𝗶𝗰𝗿𝗼𝗞𝟴𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_build-your-kubernetes-playground-on-aws-activity-7132377143568695296-Gp04?) - 𝗥𝗲𝗰𝗮𝗽-𝟯𝟲 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴𝟭𝟭
 
+- [𝗛𝗲𝗹𝗺 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻] (https://www.linkedin.com/posts/vijayalakshmiyvl_deploy-your-first-helm-chart-in-kubernetes-activity-7134186138365300736-n0ZY?)- 𝗥𝗲𝗰𝗮𝗽 𝟯𝟳 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴𝟭𝟮
 
+- [𝗛𝗲𝗹𝗺 𝗖𝗹𝗶] (https://www.linkedin.com/posts/vijayalakshmiyvl_helm-basic-commands-activity-7136927383135129600-ZfoA?)- 𝗥𝗲𝗰𝗮𝗽 𝟯𝟴 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴13
+
+- [𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗳𝗶𝗿𝘀𝘁 𝗖𝘂𝘀𝘁𝗼𝗺 𝗛𝗲𝗹𝗺 𝗖𝗵𝗮𝗿𝘁 𝗶𝗻 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀] (https://www.linkedin.com/posts/vijayalakshmiyvl_deploy-your-first-custom-helm-chart-in-kubernetes-activity-7139514959599714304-dgf5?) - 𝗥𝗲𝗰𝗮𝗽 𝟯𝟵 𝗠𝗲𝗱𝗶𝘂𝗺_𝗯𝗹𝗼𝗴 14
 
 
 
