@@ -100,6 +100,7 @@ Strength: Quick Learner, Good Listener
 
 - [𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗳𝗶𝗿𝘀𝘁 𝗖𝘂𝘀𝘁𝗼𝗺 𝗛𝗲𝗹𝗺 𝗖𝗵𝗮𝗿𝘁 𝗶𝗻 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀](https://www.linkedin.com/posts/vijayalakshmiyvl_deploy-your-first-custom-helm-chart-in-kubernetes-activity-7139514959599714304-dgf5?) - 𝗥𝗲𝗰𝗮𝗽 𝟯𝟵 𝗠𝗲𝗱𝗶𝘂𝗺_14
 
+- [𝗰𝗲𝗹𝗲𝗯𝗿𝗮𝘁𝗶𝗻𝗴 𝟭 𝘆𝗲𝗮𝗿 𝗮𝘁 𝗖𝗮𝗽𝗴𝗲𝗺𝗶𝗻𝗶 Cert](https://www.linkedin.com/posts/vijayalakshmiyvl_celebrating-1-year-at-capgemini-activity-7140219032326103040-mqoo?)
 
 
 ## Connect with me  
